@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:v2.17
+FROM jenkins/jenkins:v2.0
